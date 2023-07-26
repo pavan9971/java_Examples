@@ -7,7 +7,6 @@ public class ArrayVerification {
     public static void main(String[] args) {
         int[] arr1 = {};
         int[] arr2 = {
-
         };
 
         Set<Integer> set1 = new HashSet<Integer>();
