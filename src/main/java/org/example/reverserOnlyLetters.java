@@ -4,6 +4,7 @@ public class reverserOnlyLetters {
     public static void main(String[] args){
        System.out.println(reverse("a-bC-dEf-ghIj"));
         System.out.println(reverse("ab-cd"));
+
     }
     public static String reverse(String s) {
         StringBuilder sb = new StringBuilder(s);
